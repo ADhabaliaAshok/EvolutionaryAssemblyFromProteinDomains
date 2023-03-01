@@ -19,7 +19,7 @@
 
 **Stress-annotation (Figure 1B)**
 * First 57,796 orthogroups were obtained from 37 proteome. This is computed by using OrthoFinder2.
-* Next we need to annotate stress-related proteins across our dataset. Following are existing ways of gene and protein ontology:
+* Next we need to annotate stress-related proteins across our dataset. Following are existing ways of annotation:
     * Extensive experiments have been done on A.thaliana and P.patens in the green lineage. Thus, we stress-annotated 37 proteomes using TAIR10 and PEATmoss respectively. From this method, we stress-annotated 4902 orthogroups
     * Eggnogmapper is a known tool with an extensive database used for gene ontology purposes. We stress-annotated 17349 orthogroups.
 * In order to avoid experimental bias and tool-based randomness we overlap the two methods to have our final stress-annotation. We finally filtered 2475 stress-annotated orthogroups from 57,796 orthogroups.
