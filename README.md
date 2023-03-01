@@ -7,6 +7,7 @@
 **Key Concepts**
 Already existing Concept:
 * Orthology
+
 New/Redefined Concept
 * Embryophytic Domain: Protein domain which has an Embryophytic ancestor, that is, present in at least one Bryophyte species and at least one Tracheophyte species
 * Latent Genetic Potential (LGP): Key functional protein domains having Last Common Ancestor prior (LCA) to the LCA of protein with corresponding function
