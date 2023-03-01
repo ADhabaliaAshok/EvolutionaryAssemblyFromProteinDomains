@@ -35,7 +35,7 @@
 
 
 **Changes in stress-annotation with respect to Protein Domains (Figure 3)**
-* Figure 3 is a 4-dimensional plot with the following parameters: Species(37), Protein Domains (100), Number of Orthgogroups with Protein Domain (size of circle), Number of Proteins with Protein Domain (Color of circle). The plot is sorted based top to bottom based on the number of orthogroups, and the top 100 protein domains are chosen for the plot.
+* Figure 3 is a 4-dimensional plot with the following parameters: Species(37), Protein Domains (100), Number of Orthgogroups with Protein Domain (size of circle), Number of Proteins with Protein Domain (Color of circle). The plot is sorted from top to bottom based on the number of orthogroups, and the top 100 protein domains are chosen for the plot.
 * This plot is used to express an overview of the most significant occurances of sub- and neo-functionalizations. Here, each orthogroup is considered to be a protein family. 2 protein families can have an overlapping number of funcitons. That is why there are more than 1 orthogroup which have the same protein domain.
 
 
