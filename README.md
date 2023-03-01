@@ -30,7 +30,7 @@
 
 
 **Distribution of Stress-annotation (Figure 2)**
-* Using the overlap annotation approach explained earlier, the stress-annotated orthogroups and corresponding protein domains are in Figure 2A. A standard pattern is observed in both, that is, the unique number of stress orthogroups and stress protein domains increase from Cyanobacteria to Tracheophytes. The number of proteins and average number of protein domains also increases similarly.
+* Using the overlap annotation approach explained earlier, the stress-annotated orthogroups and corresponding protein domains are in Figure 2A. A standard pattern is observed in both, that is, the unique number of stress orthogroups and protein domains increase from Cyanobacteria to Tracheophytes. The number of proteins and average number of protein domains also increases similarly.
 * Top 10 bursts of protein domains from one lineage to the next is seen in Figure 2B.
 
 
