@@ -39,7 +39,7 @@
 * This plot is used to express an overview of the most significant occurances of sub- and neo-functionalizations. Here, each orthogroup is considered to be a protein family. 2 protein families can have an overlapping number of functions. That is why there are more than 1 orthogroup which have the same protein domain.
 
 
-**Assembling LGP from protein domains (Figure 4) - refer to Key Concepts for to understand LGP**
+**Assembling LGP from protein domains (Figure 4) - refer to Key Concepts to understand LGP**
 * In Figure 1A, we show 2 categories (x/y) of orthogroups at each node (a,b,c,d,e,f). The number **y** for example at node **b** indicates the number of orthogroups (4) in Tracheophyta+Bryophyta+Zygnemaotphyceae that have LGP (or key Embryophytic protein domains) in Charophyceae. The number **x** at node **b** indicates the number of orthogroups (131) in Tracheophyta+Bryophyta+Zygnemaotphyceae that have LGP in all the rest of the lineages in the figure.
 * Since we are concerned about the LGP for Land Plants (Embryophytes), we look at node **a**. Next, we functionally annotate 96 orthogroups. 50 annotations that occur the most number of times is shown in Figure 4B.
 * In Figure 4C, we can see in which species the key Embryophytic Domains are present whose proteins and protein families are only seen in Embryophytes.
