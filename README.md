@@ -5,11 +5,11 @@
 * Thus, to track the evolutionary predisposition which led to successfully overcoming the challenges of a new environment we carefully annotate, dissect and analyse the stress proteome of the extant Green lineage.
 
 **Key Concepts**
-* Already existing Concept:
-*  Orthology
-* New/Redefined Concept
-*  Embryophytic Domain: Protein domain which has an Embryophytic ancestor, that is, present in at least one Bryophyte species and at least one Tracheophyte species
-*  Latent Genetic Potential (LGP): Key functional protein domains having Last Common Ancestor prior (LCA) to the LCA of protein with corresponding function
+Already existing Concept:
+* Orthology
+New/Redefined Concept
+* Embryophytic Domain: Protein domain which has an Embryophytic ancestor, that is, present in at least one Bryophyte species and at least one Tracheophyte species
+* Latent Genetic Potential (LGP): Key functional protein domains having Last Common Ancestor prior (LCA) to the LCA of protein with corresponding function
 
 **Data: (Figure 1 A)**
 * We take 6 species from Cholorophyte algae lineage, 7 from Streptophyte algae lineage, 5 from Bryophytes lineage and 14 Tracheophytes. 5 species from Cyanobacteria were taken as an outgroup lineage.
