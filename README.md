@@ -1,7 +1,7 @@
 # EvolutionaryAssemblyFromProteinDomains
 Evolutionary assembly of the plant terrestrialization toolkit from protein domains
 * We want to trace the evolutionary predisposition the green lineage had at the time of terrestrialization.
-* Terrestrialization is a complete change in environment from water, and these acted like new or intensified stress factors on the green lineage.
+* Terrestrialization is a complete change in environment from water, and these acted like new and/or intensified stress factors on the green lineage.
 * Thus, to track the evolutionary predisposition which led to successfully overcoming the challenges of a new environment we carefully annotate, dissect and analyse the stress proteome of the extant Green lineage.
 
 —Key Concepts—
