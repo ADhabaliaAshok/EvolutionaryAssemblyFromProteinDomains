@@ -31,7 +31,7 @@
 
 **Distribution of Stress-annotation (Figure 2)**
 * Using the overlap annotation approach explained earlier, the stress-annotated orthogroups and corresponding protein domains are in Figure 2A. A standard pattern is observed in both, that is, the unique number of stress orthogroups and protein domains increase from Cyanobacteria to Tracheophytes. The number of proteins and average number of protein domains also increases similarly.
-* Top 10 bursts of protein domains from one lineage to the next is seen in Figure 2B.
+* Top 10 bursts of protein domains from one lineage to the next is shown in Figure 2B.
 
 
 **Changes in stress-annotation with respect to Protein Domains (Figure 3)**
@@ -41,5 +41,5 @@
 
 **Assembling LGP from protein domains (Figure 4) - refer to Key Concepts for to understand LGP**
 * In Figure 1A, we show 2 categories (x/y) of orthogroups at each node (a,b,c,d,e,f). The number **y** for example at node **b** indicates the number of orthogroups (4) in Tracheophyta+Bryophyta+Zygnemaotphyceae that have LGP (or key Embryophytic protein domains) in Charophyceae. The number **x** at node **b** indicates the number of orthogroups (131) in Tracheophyta+Bryophyta+Zygnemaotphyceae that have LGP in all the rest of the lineages in the figure.
-* Since we are concerned about the LGP for Land Plants (Embryophytes), we look at node **a** and functionally annotate 96 orthogroups. The 50 most occuring annotation is seen in Figure 4B.
+* Since we are concerned about the LGP for Land Plants (Embryophytes), we look at node **a**. Next, we functionally annotate 96 orthogroups. 50 annotations that occur the most number of times is shown in Figure 4B.
 * In Figure 4C, we can see in which species the key Embryophytic Domains are present whose proteins and protein families are only seen in Embryophytes.
