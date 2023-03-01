@@ -14,7 +14,7 @@
 
 
 **Data: (Figure 1 A)**
-* We take 6 species from Cholorophyte algae lineage, 7 from Streptophyte algae lineage, 5 from Bryophytes lineage and 14 Tracheophytes. 5 species from Cyanobacteria were taken as an outgroup lineage.
+* We take 6 species from Cholorophyte algae lineage, 7 from Streptophyte algae lineage, 5 from Bryophyte lineage and 14 from Tracheophyte lineage. 5 species from Cyanobacteria were taken as an outgroup lineage.
 
 
 **Stress-annotation (Figure 1B)**
