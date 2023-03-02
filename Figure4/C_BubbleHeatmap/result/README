@@ -16,7 +16,7 @@
 python3 make_intermediate_input_5.py
 	INPUT FILES REQUIRED:
 		../../../Figure1_JandV/B_Approaches/result/3_1_input_file_m
-		all_species_stress_og_fromOrthogroupstsv_37species - download from DatabaseFiles link
+		all_species_stress_og_fromOrthogroupstsv_37species - download file from DatabaseFiles
 		species_ordered_list_final_m - download file from DatabaseFiles
 		database_proteindomains - download file from DatabaseFiles
 		database_OG3_3_EmbryophyteLCAdomains - download file from DatabaseFiles
@@ -30,7 +30,7 @@ python3 make_intermediate_input_5.py
 python3 make_input_5.py
 	INPUT FILES REQUIRED:
 		../../../Figure1_JandV/B_Approaches/result/3_1_input_file_m
-		all_species_stress_og_fromOrthogroupstsv_37species - download from DatabaseFiles link
+		all_species_stress_og_fromOrthogroupstsv_37species - download file from DatabaseFiles
 		species_ordered_list_final_m - download file from DatabaseFiles
 		database_proteindomains - download file from DatabaseFiles
 		database_OG3_3_EmbryophyteLCAdomains - download file from DatabaseFiles
@@ -65,3 +65,10 @@ FILTERING FINAL RESULT FILE:
 
 	OUTPUT:
 4. 5_96OG_reorder_new: obtained by filtering 5_final_input_file_PROT_DOM_1 to extract filtered orthogroups from 6_filtergreaterthanorequalto_annotation1.1_nonembryophyte_EmbryophyteLCA (column1)
+
+
+
+
+
+DatabaseFiles Link:
+https://owncloud.gwdg.de/index.php/s/dH3Y4MAHSfbmhrA
