@@ -1,0 +1,5 @@
+Make output figures with following commands:
+
+python3 make_output_3_1.py
+python3 make_output_3_2.py
+python3 make_output_3_3.py
