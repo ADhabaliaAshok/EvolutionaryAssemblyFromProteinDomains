@@ -1,0 +1,3 @@
+Make final figure with following command:
+
+Rscript final_m_heatmap.R
