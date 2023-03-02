@@ -1,0 +1,41 @@
+python3 make_input_5_spvsipr_intermediate.py
+	INPUT FILES REQUIRED:
+		../../Figure2_JandV/A_Heatmap_ProteinDomains/result/4_input_file_log2
+		database_OG3_3_Orthogroups.tsv - download file from DatabaseFiles link
+		database_proteindomains - download file from DatabaseFiles link
+		database_proteindomains - download file from DatabaseFiles link
+	OUTPUT FILES:
+		5_input_file_uniqprot_spvsipr
+		5_input_file_uniqog_spvsipr
+
+python3 make_input_5_spvsipr.py
+	INPUT FILES REQUIRED:
+		../../Figure2_JandV/A_Heatmap_ProteinDomains/result/4_input_file_log2_3_3
+		database_OG3_3_Orthogroups.tsv - download file from DatabaseFiles link
+		database_proteindomains - download file from DatabaseFiles link
+		database_proteindomains - download file from DatabaseFiles link
+		5_input_file_uniqprot_spvsipr
+		5_input_file_uniqog_spvsipr
+		species_numbered_list_final_m - download file from DatabaseFiles link
+	OUTPUT FILES:
+		5_final_input_file_log2PROT_OG_1
+		5_final_input_file_log2PROT_log2OG_1
+
+python3 sort_5_inputfile.py
+	INPUT FILES REQUIRED:
+		5_final_input_file_log2PROT_log2OG_1
+	OUTPUT FILES:
+		5_intermediate_input_file_log2PROT_log2OG_sortedPROT_1
+		5_intermediate_input_file_log2PROT_log2OG_sortedOG_1
+
+python3 sort_5_finalfile.py
+	INPUT FILES REQUIRED:
+		5_intermediate_input_file_log2PROT_log2OG_sortedPROT_1
+		5_intermediate_input_file_log2PROT_log2OG_sortedOG_1
+		5_final_input_file_log2PROT_OG_1
+	OUTPUT FILES:
+		5_final_input_file_log2PROT_OG_sortPROT_2
+		5_final_input_file_log2PROT_OG_sortOG_2
+
+DatabaseFiles Link:
+https://owncloud.gwdg.de/index.php/s/dH3Y4MAHSfbmhrA
