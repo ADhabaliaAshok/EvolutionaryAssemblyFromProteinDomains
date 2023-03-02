@@ -1,0 +1,45 @@
+NOTE for Figure 1D - intersection of protein domains with respect to "response to stress" GO terms ##
+	*approach2.out files (files in Database Files link) are made by crosslinking interproscanner output (*.tsv files - files in Database Files link) and eggnogmapper annotation files (*.emapper.annotations - files in Database Files link) with respect to each protein.
+This crosslinking is done for every species, thus giving 37 *.approach.out files.
+
+Make Final Figure with the following command:
+
+python3 upsetplot_makeinput_count.py
+	INPUT FILES REQUIRED:
+		Mesostigma_viride_GORTSvsIPR_approach2.out
+		Micromonas_pusilla_GORTSvsIPR_approach2.out
+		Gloeomargarita_lithophora_GORTSvsIPR_approach2.out
+		Amborella_trichopoda_GORTSvsIPR_approach2.out
+		Picea_abies_GORTSvsIPR_approach2.out
+		Coccomyxa_subellipsoidea_GORTSvsIPR_approach2.out
+		Anthoceros_punctatus_GORTSvsIPR_approach2.out
+		Physcomitrella_patens_GORTSvsIPR_approach2.out
+		Mesotaenium_endlicherianum_GORTSvsIPR_approach2.out
+		Ulva_mutabilis_GORTSvsIPR_approach2.out
+		Azolla_filiculoidesFeb12_GORTSvsIPR_approach2.out
+		Arabidopsis_thaliana_GORTSvsIPR_approach2.out
+		Penium_margaritaceum_GORTSvsIPR_approach2.out
+		Brassica_rapa_GORTSvsIPR_approach2.out
+		Oryza_sativa_GORTSvsIPR_approach2.out
+		Spirogloeae_muscicola_GORTSvsIPR_approach2.out
+		Arabidopsis_lyrata_GORTSvsIPR_approach2.out
+		Chlorokybus_atmophyticus_GORTSvsIPR_approach2.out
+		Chlorella_variabilis_GORTSvsIPR_approach2.out
+		Gnetum_montanum_GORTSvsIPR_approach2.out
+		Lotus_japonicus_GORTSvsIPR_approach2.out
+		Anthoceros_agrestis_GORTSvsIPR_approach2.out
+		Chlamydomonas_reinhardtii_GORTSvsIPR_approach2.out
+		Oscillatoria_acuminata_GORTSvsIPR_approach2.out
+		Chara_braunii_GORTSvsIPR_approach2.out
+		Sphagnum_fallax_GORTSvsIPR_approach2.out
+		Klebsomidium_nitens_GORTSvsIPR_approach2.out
+		Medicago_truncatula_GORTSvsIPR_approach2.out
+		Marchantia_polymorpha_GORTSvsIPR_approach2.out
+		Brachypodium_distachyon_GORTSvsIPR_approach2.out
+		Trichormus_azollae_GORTSvsIPR_approach2.out
+		Spinacia_oleracea_GORTSvsIPR_approach2.out
+		Nostoc_punctiforme_GORTSvsIPR_approach2.out
+		Ostreococcus_lucimarinus_GORTSvsIPR_approach2.out
+		Fischerella_thermalis_GORTSvsIPR_approach2.out
+		Pisum_sativum_GORTSvsIPR_approach2.out
+		Selaginella_moellendorffii_GORTSvsIPR_approach2.out
