@@ -1,0 +1,3 @@
+Make final figure with the following command:
+
+Rscript bubbleheatmap_final_m_spvsipr_sortOG.R
