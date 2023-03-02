@@ -1,0 +1,5 @@
+Protein Domain bursts are retrieved from the file ../../Database/database_proteindomains. The protein domains were summed up and sorted for each lineage. This number was normalized as follows:
+	number of domains in lineage/number of species in lineage
+The top 10 were selected at every node between lineages. Since one lineage encompasses the next lineages at most nodes, the repeated protein domain bursts were not considered from one node to the next. However, in the figure we show that they are still part of the proteome for that lineage.
+
+Simple command-lines were used on the terminal to get the result. The figure was made manually on Affinity Designer
