@@ -1,0 +1,30 @@
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
+data = pd.read_csv("figure1_table.csv")
+df = pd.DataFrame(data)
+x = list(df.iloc[:, 0])
+y_busco = list(df.iloc[:, 1])
+y1 = list(df.iloc[:, 2])
+y2 = list(df.iloc[:, 3])
+y3 = list(df.iloc[:, 4])
+y4 = list(df.iloc[:, 5])
+df["BUSCO"] = df["BUSCO"].astype(float)
+df["#Proteins"] = df["#Proteins"].astype(int)
+df["#IPRAnnProteins"] = df["#IPRAnnProteins"].astype(int)
+df["#IPRAnnDomains"] = df["#IPRAnnDomains"].astype(int)
+df["#StressAnnProteins"] = df["#StressAnnProteins"].astype(int)
+
+f = plt.figure()
+plt.rc('font', size=5)
+x_axis = np.arange(len(x))
+plt.xticks(x_axis,x,rotation=90)
+plt.bar(x_axis-0.30,y1,0.30,label="#Proteins")
+plt.bar(x_axis,y2,0.30,label="#IPRAnnProteins")
+plt.bar(x_axis+0.30,y4,0.30,label="#StressAnnProteins")
+plt.xlabel("Species")
+plt.ylabel("Number of Proteins")
+plt.legend()
+#plt.show()
+f.savefig("figure1_part1.pdf",bbox_inches='tight')
