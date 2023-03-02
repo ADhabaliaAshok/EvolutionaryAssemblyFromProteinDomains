@@ -1,0 +1,35 @@
+python3 make_input_3_1.py
+        INPUT FILES REQUIRED: 
+		Ppatens_GO - download file from DatabaseFiles
+		ATH_GO_GOSLIM_2021_removed4lines.txt - download file from DatabaseFiles
+		PEATmossTAIR_GOBP_GORTS - download file from DatabaseFiles
+		PEATmossTAIR_stress_proteins - download file from DatabaseFiles
+		concat_all_files_len13_ipr - download file from DatabaseFiles
+		Orthogroups.tsv - download file from DatabaseFiles
+		species_ordered_list_final_m - download file from DatabaseFiles
+        OUTPUT FILES:
+		3_1_input_file_m
+
+python3 make_input_3_2.py
+        INPUT FILES REQUIRED:
+		database_GOID_GORTS - download file from DatabaseFiles
+		Orthogroups.tsv - download file from DatabaseFiles
+		species_ordered_list_final_m - download file from DatabaseFiles
+        OUTPUT FILES:
+		3_2_input_file
+python3 compare_index.py
+        INPUT FILES REQUIRED:
+		3_1_index_final_m - obtained from header of 3_1_input_file_m
+		3_2_index - obtained from header of 3_2_input_file
+        OUTPUT FILES:
+		3_3_index_overlaps
+python3 make_input_3_3.py
+        INPUT FILES REQUIRED:
+		3_1_input_file_m
+		species_ordered_list_final_m - download file from DatabaseFiles
+		3_3_index_overlaps
+        OUTPUT FILES:
+		3_3_input_file_m
+
+DatabaseFiles Link:
+https://owncloud.gwdg.de/index.php/s/dH3Y4MAHSfbmhrA
