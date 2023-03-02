@@ -1,0 +1,6 @@
+python3 count_wordle.py
+	INPUT FILES NEEDED:
+		6_annotation_96OG_1.out - annotations for 96 orthogroups are obtained using the annotated A.thaliana and P.patens proteins (from TAIR10 and PEATmoss databases)
+	OUTPUT
+		wordle_input_withcount.csv
+		wordle_input_words.txt
