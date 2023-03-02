@@ -1,0 +1,20 @@
+python3 make_input_6_2475OG.py
+	INPUT FILES REQUIRED:
+		species_numbered_list_final_m - download file from DatabaseFiles
+		database_domainfirstappearance - download file from DatabaseFiles
+		database_OGfirstappearance - download file from DatabaseFiles
+		database_OG3_3_uniquedomains - download file from DatabaseFiles
+	OUTPUT:
+		6_2475OG_input_file
+
+python3 make_input_7.py
+	INPUT FILES REQUIRED:
+		Orthogroups.tsv - download file from DatabaseFiles
+		species_ordered_list_final_m - download file from DatabaseFiles
+		6_2475OG_input_file
+	OUTPUT:
+		7_input_file
+		7_input_file_log2
+
+DatabaseFiles Link:
+https://owncloud.gwdg.de/index.php/s/dH3Y4MAHSfbmhrA
