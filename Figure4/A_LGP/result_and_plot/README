@@ -1,0 +1,13 @@
+No specific script was used to make this plot. Explanation for what was done and why is given below:
+
+From the following file, orthogroups at node between two lineages are retrieved that are responsible for latent genetic potential in terms of protein domains:
+/Users/amra/Documents/PLOTS/Scripts/Figure4_JandV/C_BubbleHeatmap/result/6_2475OG_input_file_EmbryophyteLCA
+
+There are two numbers x/y:
+x: The number of orthogroups tha have complete domain set in the at least one of the lineages before the node in consideration.
+y: The number of orthogroups that have complete domain set in the lineage just before the node in consideration.
+For example, 96/3 at node a means the following:
+96 orthogroups are present in Embryophytes that have complete domain set in Streptophyte algae, Chlorophyte algae and Cyanobacteria
+5 orthogroups are present in Embryophytes that have a complete domain set in Zygnematophyceae
+
+Note: Our further analyses is done with 96 orthogroups referred to in above example. This is because we are interested in latent genetic potential involved in successful terrestrialization of plants.
