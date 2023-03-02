@@ -45,3 +45,7 @@
 * In Figure 4C, we can see in which species the key Embryophytic Domains are present whose proteins and protein families are only seen in Embryophytes.
 
 Thus, from the final figure we can trace the LGP present at the time of terrestrialization in the LCA of Land Plants.
+
+**Database files:**
+These are intermediate files used in code for different figures. Following is the link to access them:
+https://owncloud.gwdg.de/index.php/s/dH3Y4MAHSfbmhrA
