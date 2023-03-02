@@ -8,7 +8,7 @@ python3 make_input_4.py
         INPUT FILES REQUIRED:
                 species_ordered_list_final_m - download file from DatabaseFiles
                 ../../../Figure1_JandV/B_Approaches/result/3_3_input_file_m
-                all_species_stress_og_fromOrthogroupstsv_37species
+                all_species_stress_og_fromOrthogroupstsv_37species - download from DatabaseFiles link
                 database_proteindomains  - download file from DatabaseFiles
         OUTPUT:
                 4_input_file_3_3
