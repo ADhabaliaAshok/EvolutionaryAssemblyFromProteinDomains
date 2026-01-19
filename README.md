@@ -1,3 +1,6 @@
+To use source material from the repository please cite the following paper:
+https://royalsocietypublishing.org/rspb/article/291/2027/20240985/105168/Evolutionary-assembly-of-the-plant
+
 # EvolutionaryAssemblyFromProteinDomains
 **Evolutionary assembly of the plant terrestrialization toolkit from protein domains**
 * We want to trace the evolutionary predisposition the green lineage had at the time of terrestrialization.
@@ -50,3 +53,4 @@ Thus, from the final figure we can trace the LGP present at the time of terrestr
 These are intermediate files used in code for different figures. Following is the link to access them:
 https://data.mendeley.com/datasets/mnrn7j7hrw/draft?a=b981b40f-01a8-48ff-9d6a-151f6223810c [OR]
 https://owncloud.gwdg.de/index.php/s/dH3Y4MAHSfbmhrA
+
