@@ -1,5 +1,5 @@
 To use source material from the repository please cite the following paper:
-https://royalsocietypublishing.org/rspb/article/291/2027/20240985/105168/Evolutionary-assembly-of-the-plant
+Dhabalia Ashok A, de Vries S, Darienko T, Irisarri I, de Vries J. Evolutionary assembly of the plant terrestrialization toolkit from protein domains. Proc Biol Sci. 2024 Jul;291(2027):20240985. doi: 10.1098/rspb.2024.0985. Epub 2024 Jul 31. PMID: 39081174; PMCID: PMC11289646.
 
 # EvolutionaryAssemblyFromProteinDomains
 **Evolutionary assembly of the plant terrestrialization toolkit from protein domains**
